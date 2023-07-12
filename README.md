@@ -8,3 +8,4 @@ then from #lbph use lbph function to calculate local binary pattern of dataset.
 
 in the end, with using of at&t face dataset, will be reurned the most resemblance picture of what you wanted.
 
+![Figure_1](https://github.com/sarEbrahimi/face-detection/assets/94298181/858f9178-394a-4b02-86fc-263da46b70c0)
